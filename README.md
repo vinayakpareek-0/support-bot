@@ -1,4 +1,4 @@
-# SupportBot: Production-Grade NLP Customer Service Agent
+# OwlsAsk: Production-Grade NLP Customer Service Agent
 
 [![Llama 3.1](https://img.shields.io/badge/Model-Llama%203.1%208B-blue)](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B)
 [![Unsloth](https://img.shields.io/badge/Optimization-Unsloth-green)](https://github.com/unslothai/unsloth)
